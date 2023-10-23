@@ -1,6 +1,0 @@
-O endereço dos projetos ficam aqui : C:\xampp\htdocs\
-
-
-obs 1. Para configurar o atalho xampp e o projeto do netbeans : Right click on your project > Properties > Sources > Web Root > click Browse... and pick your root - in your case it would be "web"
-
-obs2 . Sempre que criar algum projeto, evitar de trocar esse atalho para não dar problemas.
